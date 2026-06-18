@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.swiftconstvalues",
+    "dependencies" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.d",
+    "diagnostics" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.dia",
+    "emit-module-dependencies" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary-emit-module.dia",
+    "pch" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.swiftdeps"
+  },
+  "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/ContentView.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/MouseGestureController.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureController.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureController.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureController.o"
+  },
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/MouseGestureSettings.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureSettings.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureSettings.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/MouseGestureSettings.o"
+  },
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/SpaceSwitcher.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/SpaceSwitcher.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/SpaceSwitcher.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/SpaceSwitcher.o"
+  },
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/mouseGestureApp.swift" : {
+    "index-unit-output-path" : "/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGestureApp.o",
+    "llvm-bc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGestureApp.bc",
+    "object" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGestureApp.o"
+  }
+}

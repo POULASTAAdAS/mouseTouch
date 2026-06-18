@@ -1,0 +1,64 @@
+{
+  "source": "/Users/poulastaad/personal/mouseGesture/mouseGesture/mouseGestureApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MG",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Monitoring",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Monitoring",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open at login",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detailed settings",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit Mouse Gesture",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 67
+        }
+      }
+    ]
+  },
+  "version": 1
+}

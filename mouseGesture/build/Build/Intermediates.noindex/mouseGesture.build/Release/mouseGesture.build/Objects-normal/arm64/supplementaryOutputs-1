@@ -1,0 +1,12 @@
+{
+  "/Users/poulastaad/personal/mouseGesture/mouseGesture/ContentView.swift" : {
+    "abi-baseline-json" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture.abi.json",
+    "const-values" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.swiftconstvalues",
+    "dependencies" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.d",
+    "diagnostics" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-primary.dia",
+    "objc-header" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture-Swift.h",
+    "swiftdoc" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture.swiftdoc",
+    "swiftmodule" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture.swiftmodule",
+    "swiftsourceinfo" : "/Users/poulastaad/personal/mouseGesture/build/Build/Intermediates.noindex/mouseGesture.build/Release/mouseGesture.build/Objects-normal/arm64/mouseGesture.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "source": "/Users/poulastaad/personal/mouseGesture/mouseGesture/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enabled",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mouse Gesture",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accessibility enabled",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accessibility required",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permission Granted",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Request Permission",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Settings",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detailed Settings",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trigger button",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Button %lld",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Drag distance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld px",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Application",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Monitor on app launch",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Monitor on app launch",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open at login",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open at login",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detailed settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Detailed settings",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test Log",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "No logs yet",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 213
+        }
+      }
+    ]
+  },
+  "version": 1
+}
